@@ -1,5 +1,8 @@
 # README
 
+## TypeScriptとReact/Next.jsでつくる実践Webアプリケーション
+- JSONサーバーの置き換え
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
